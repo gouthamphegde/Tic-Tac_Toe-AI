@@ -1,5 +1,6 @@
 # Tic-Tac_Toe-AI
 Console based  Tic Tac Toe Game built in 2020 , Jun while learning python.
+
 Topics Covered -> Basic Python Programming , OOPs in python (especially inheritance), Minimax Algorithm
 There are 3 players - HumanPlayer , RandomComputer Player and Genius Computer Player
 
