@@ -7,6 +7,8 @@ Human Player takes input from user
 RandomComputer Player gets input from randomly chosen value(using Random module)
 Genius Computer Player - Uses Minimax Algorithm to decide which square to move next . Hence while playing with Genius Computer we either lose or match ends with a tie.
 
+Read about Minimx algorithm : https://en.wikipedia.org/wiki/Minimax
+
 There are 2 files :
 Player.py file where player classes and minimax algo is implemented
 Game.py is where classes are called and the board is drawn for playing
